@@ -1,0 +1,6 @@
+.env
+.env.*
+*.ignore.*
+
+keys.json
+/venv
