@@ -1,13 +1,16 @@
 .env
 .env.*
+
 *.ignore.*
 
 keys.json
+
 /venv/
+venv/
 
-.DS_Store.env
-.env.*
-*.ignore.*
+__pycache__/
+*.pyc
 
-keys.json
-/venv.DS_Store
+.ipynb_checkpoints/
+
+.DS_Store
