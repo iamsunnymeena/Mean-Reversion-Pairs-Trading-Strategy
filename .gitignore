@@ -3,4 +3,11 @@
 *.ignore.*
 
 keys.json
+/venv/
+
+.DS_Store.env
+.env.*
+*.ignore.*
+
+keys.json
 /venv.DS_Store
